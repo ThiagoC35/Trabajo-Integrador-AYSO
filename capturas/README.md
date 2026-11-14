@@ -1,12 +1,5 @@
 # Evidencias del proyecto
 
-En esta carpeta se incorporarán las capturas
-del proceso de instalación y configuración
-de la máquina virtual Ubuntu, junto con las
-pruebas realizadas con Python.
-
-# Evidencias del proyecto
-
 Esta carpeta contiene las capturas de pantalla que documentan el desarrollo práctico del Trabajo Integrador de Arquitectura y Sistemas Operativos.
 
 ## Evidencias incluidas
